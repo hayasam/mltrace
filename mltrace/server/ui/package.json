@@ -9,7 +9,7 @@
     "@blueprintjs/popover2": "^0.8.0",
     "@blueprintjs/select": "^3.16.2",
     "@blueprintjs/table": "^3.8.31",
-    "@blueprintjs/timezone": "^3.9.2",
+    "@blueprintjs/timezone": "^3.10.1",
     "@testing-library/dom": "^7.31.0",
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
