@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 joblib==1.0.1
 MarkupSafe==1.1.1
-mlflow>=1.22.0
+mlflow>=3.1.1
 pandas
 packaging==20.9
 pandas
@@ -31,3 +31,5 @@ toml==0.10.2
 Werkzeug==1.0.1
 pathlib==1.0.1
 scikit-learn
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
