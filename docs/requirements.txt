@@ -33,4 +33,5 @@ smmap==4.0.0
 SQLAlchemy==1.4.3
 threadpoolctl==2.1.0
 toml==0.10.2
-Werkzeug==1.0.1
+Werkzeug==3.1.5
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
